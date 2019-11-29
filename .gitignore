@@ -1,0 +1,8 @@
+.idea/
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
+MakeFile
+submodular-knapsack*
+results/
+cmake-build-debug/
